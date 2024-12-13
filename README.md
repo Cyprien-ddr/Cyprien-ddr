@@ -1,5 +1,5 @@
 <p align="center">
-    <img width="200" src="https://github.com/Cyprien-ddr/Cyprien-ddr/main/icons/logo.png">
+    <img width="200" src="https://raw.githubusercontent.com/Cyprien-ddr/Cyprien-ddr/main/icons/logo.png">
 </p>
 
 <h1> Hello < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
@@ -17,7 +17,7 @@
 
 - 🔭 I'm a student at Epitech
 
--  I'm an AI enthusiast and passionate about technologies and love to learn new things.
+- 🤖 I'm an AI enthusiast and passionate about technologies and love to learn new things.
   
 - 🌱 I’m currently learning Rust
   
