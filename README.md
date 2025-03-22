@@ -19,7 +19,7 @@
 
 - 🤖 I'm an AI enthusiast and passionate about technologies and love to learn new things.
   
-- 🌱 I’m currently learning Rust
+- 🌱 I’m currently learning how to make "Pâté croûte"
   
 - 💬 Ask me about Python, AI, C and Docker
   
